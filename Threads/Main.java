@@ -24,7 +24,7 @@ public class Main {
 		System.out.println("Starting k:");
 		obk.start();
 		obk.join();
-		// TODO uto-generated method stub
+		
 
 	}
 
